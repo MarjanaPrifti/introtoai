@@ -3,11 +3,13 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 
 - Instructor: Dr. Marjana Prifti Skenduli
 - Contact: [marjanaprifti@unyt.edu.al](mailto:marjanaprifti@unyt.edu.al)
-- When: Spring 2024, Wednesday 9:00 AM to 12:00 PM.
+- When:
+  - Spring 2024, Wednesday 9:00 AM to 12:00 PM.
+  - Spring 2024, Thursday 13:00 PM to 16:00 PM.
 - Classroom: B2-Lab new lab
 - Turnitin Classroom:
-  - Section 1 (Wednesday) ID: 42708875 Passkey: spring2024
-  - Section 2 (Thursday) ID: 42708880 Passkey: spring2024
+  - **Section 1 (Wednesday)** ID: 42708875 Passkey: spring2024
+  - **Section 2 (Thursday)** ID: 42708880 Passkey: spring2024
 
 ## Course Calendar
 
