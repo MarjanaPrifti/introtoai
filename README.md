@@ -16,7 +16,9 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2023.
 <!---| February 23 | Lecture 2: [Solving problems by searching][l2] [[PDF][l2-pdf]] [[video][l2-vid]] <br> Lecture 2b: [Constraint satisfaction problems][l2b] [[PDF][l2b-pdf]] (optional)<br> Project 1: [Search algorithms](projects/project1) (due by October 7) |--->
 
 
-[syllabus]: https://glouppe.github.io/info8006-introduction-to-ai/?p=course-syllabus.md
+[syllabus]: [https://glouppe.github.io/info8006-introduction-to-ai/?p=course-syllabus.md](https://github.com/glouppe/info8006-introduction-to-ai/blob/info8006-2022/course-syllabus.md)
+
+
 [syllabus-pdf]: https://glouppe.github.io/info8006-introduction-to-ai/pdf/course-syllabus.pdf
 [syllabus-vid]: https://www.youtube.com/watch?v=XOjc3OtJA4U
 [l0]: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture0.md
