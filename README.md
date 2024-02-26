@@ -11,7 +11,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2023.
 
 | Date | Topic |
 | ---- | ----- |
-| February 21 | [Course syllabus][syllabus] [[PDF][syllabus-pdf]] [[video][syllabus-vid]] <br> Lecture 0: [Introduction to artificial intelligence][l0] [[PDF][l0-pdf]] [[video](l0-vid)] <br> Lecture 1: [Intelligent agents][l1] [[PDF][l1-pdf]] [[video][l1-vid]] |
+| February 21 | [Course syllabus][syllabus] [[PDF][syllabus-pdf]] <br> Lecture 0: [Introduction to artificial intelligence][l0] [[PDF][l0-pdf]] <br> Lecture 1: [Intelligent agents][l1] [[PDF][l1-pdf]]  |
 
 <!---| February 23 | Lecture 2: [Solving problems by searching][l2] [[PDF][l2-pdf]] [[video][l2-vid]] <br> Lecture 2b: [Constraint satisfaction problems][l2b] [[PDF][l2b-pdf]] (optional)<br> Project 1: [Search algorithms](projects/project1) (due by October 7) |--->
 
