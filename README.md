@@ -16,7 +16,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | Date | Topic |
 | ---- | ----- |
 | February 21 | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook] <br>Lecture 0: [Introduction to artificial intelligence][] [[PDF][]] <br> Lecture 1: [Intelligent agents][] [[PDF][]]  |
-<!---  --->
+
 
 
 
