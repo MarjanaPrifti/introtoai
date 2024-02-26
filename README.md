@@ -15,11 +15,12 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 
 | Date | Topic |
 | ---- | ----- |
-| **Week 1** - February 21,2024 | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook] <br>Lecture 0: [Introduction to artificial intelligence][] [[Chapter 1][chapter]] <br> Lecture 1: [Intelligent agents][] [[PDF][]]  |
+| **Week 1** - February 21,2024 | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook], [4rth Editon] <br>Lecture 0: [Introduction to artificial intelligence][] [[Chapter 1][chapter]] <br> Lecture 1: [Intelligent agents][] [[PDF][]]  |
 
 
 
 
 [syllabus]: https://marjanaprifti.github.io/IntroToAI/PDFs/UNYT%20-%20Artificial%20Intelligence%20(Elective)%20-%20syllabus.pdf
 [ebook]: https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf
+[4rth Editon]: https://drive.google.com/file/d/1Wa0fyQwP_DtXSRVQP8sWzJciPrqEdk8l/view?usp=sharing
 [chapter]: https://aima.cs.berkeley.edu/
