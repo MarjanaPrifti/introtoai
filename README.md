@@ -32,4 +32,6 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [l1]: https://glouppe.github.io/info8006-introduction-to-ai/?p=lecture1.md
 [l1-pdf]: https://glouppe.github.io/info8006-introduction-to-ai/pdf/lec1.pdf
 [l1-vid]: https://www.youtube.com/watch?v=WYxZiGIZXSs
+
+[syllabus]: 
 [ebook]: https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf
