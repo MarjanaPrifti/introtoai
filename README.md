@@ -1,5 +1,5 @@
 # SE 210 - Special Topics in CSCI (Artificial Intelligence)
-Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2023.
+Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 
 - Instructor: Dr. Marjana Prifti Skenduli
 - Contact: [marjanaprifti@unyt.edu.al](mailto:marjanaprifti@unyt.edu.al)
