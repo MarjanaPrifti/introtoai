@@ -11,7 +11,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
   - **Section 1 (Wednesday)** ID: 42708875 Passkey: spring2024
   - **Section 2 (Thursday)** ID: 42708880 Passkey: spring2024
 
-## Course Calendar
+## Course Calendar and Outline
 
 | Date | Topic |
 | ---- | ----- |
