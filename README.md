@@ -20,7 +20,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 
 
 
-[syllabus]: https://github.com/MarjanaPrifti/introtoai/PDFs/UNYT - Artificial Intelligence (Elective) - syllabus.pdf
+[syllabus]: https://marjanaprifti.github.io/introtoai/PDFs/UNYT%20-%20Artificial%20Intelligence%20(Elective)%20-%20syllabus.pdf
 [ebook]: https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf
 ["4rth Editon"]: https://drive.google.com/file/d/1Wa0fyQwP_DtXSRVQP8sWzJciPrqEdk8l/view?usp=sharing
 [chapter]: https://aima.cs.berkeley.edu/
