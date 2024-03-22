@@ -17,7 +17,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | ---- | ----- |
 | **Week 1** - February 21/22, 2024 | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook], ["4rth Editon"] <br>Lecture 0: [Introduction to Artificial Intelligence][] [[Chapter 1][chapter]] <br> Optional Reading: [Turing's Paper][paper]  |
 | **Week 2** - March 06/07, 2024 | Lecture 1: [Intelligent Agents][01] [[Chapter 2][chapter]] <br> Optional Reading: [A generalist AI agent for 3D virtual environments][link] |
-| **Week 3** - March 06/07, 2024 | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Optional Reading: [Nvidia Project GROOT][link1] |
+| **Week 3** - March 06/07, 2024 | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Home Assignement: [ex1]  <br> Optional Reading: [Nvidia Project GROOT][link1] |
 
 
 [syllabus]: https://marjanaprifti.github.io/introtoai/PDFs/UNYT%20-%20Artificial%20Intelligence%20(Elective)%20-%20syllabus.pdf
@@ -30,3 +30,4 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [02]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture2.pdf
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
+[ex1]:  https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
