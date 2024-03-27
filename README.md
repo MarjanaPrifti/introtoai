@@ -32,5 +32,5 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [03]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture3.pdf
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
-[ex1]:  https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
+[ex1]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
