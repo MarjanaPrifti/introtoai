@@ -17,9 +17,10 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | ---- | ----- |
 | **Week 1** - February 21/22, 2024 | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook], ["4rth Editon"] <br>Lecture 0: [Introduction to Artificial Intelligence][00] [[Chapter 1][chapter]] <br> Optional Reading: [Turing's Paper][paper]  |
 | **Week 2** - March 06/07, 2024 | Lecture 1: [Intelligent Agents][01] [[Chapter 2][chapter]] <br> Optional Reading: [A generalist AI agent for 3D virtual environments][link] |
-| **Week 3** - March 06/07, 2024 | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Home Assignement: [Assignment1][ex1]  <br> Optional Reading: [Nvidia Project GROOT][link1] <br> [Can Large Language Models Reason and Plan?][link2]|
-| **Week 4** - March 06/07, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
-
+| **Week 3** - March 13, 2024 | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Home Assignement: [Assignment1][ex1]  <br> Optional Reading: [Nvidia Project GROOT][link1] <br> [Can Large Language Models Reason and Plan?][link2]|
+| **Week 4** - March 21, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
+| **Week 5** - March 27/28, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
+| **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
 
 [syllabus]: https://marjanaprifti.github.io/introtoai/PDFs/UNYT%20-%20Artificial%20Intelligence%20(Elective)%20-%20syllabus.pdf
 [ebook]: https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf
