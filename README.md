@@ -21,6 +21,9 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 4** - March 21, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
 | **Week 5** - March 27/28, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
 | **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
+| **Week 7** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline: April 18, 6am|
+
+
 
 [syllabus]: https://marjanaprifti.github.io/introtoai/PDFs/UNYT%20-%20Artificial%20Intelligence%20(Elective)%20-%20syllabus.pdf
 [ebook]: https://github.com/yanshengjia/ml-road/blob/master/resources/Artificial%20Intelligence%20-%20A%20Modern%20Approach%20(3rd%20Edition).pdf
@@ -35,3 +38,4 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
 [ex1]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
+[07]: https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing
