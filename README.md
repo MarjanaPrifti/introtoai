@@ -21,7 +21,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 4** - March 21, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
 | **Week 5** - March 27/28, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
 | **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
-| **Week 7** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline: April 18, 6am|
+| **Week 7** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline extended: April 19, 18:00|
 
 
 
