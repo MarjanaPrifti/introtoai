@@ -21,7 +21,8 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 4** - March 21, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
 | **Week 5** - March 27/28, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br> Home Assignement: [Assignment2] []|
 | **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
-| **Week 7** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline extended: April 19, 18:00|
+| **Week 7** - April 10/11, 2024 | Lecture 4: [Constraint Satisfaction Problems][04] [[Chapter 6, sections 6.1-6.3][chapter]]|
+| **Week 8** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline extended: April 19, 18:00|
 
 
 
@@ -34,6 +35,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [01]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture1.pdf
 [02]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture2.pdf
 [03]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture3.pdf
+[04]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture4.pdf
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
 [ex1]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
