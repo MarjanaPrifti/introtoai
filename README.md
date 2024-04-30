@@ -23,7 +23,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
 | **Week 7** - April 10/11, 2024 | Lecture 4: [Constraint Satisfaction Problems][04] [[Chapter 6, sections 6.1-6.3][chapter]]|
 | **Week 8** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline extended: April 19, 18:00|
-| **Week 9** - April 24/25, 2024 | Lecture 5: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment to work on your own: [Assignment2][ex2] |
+| **Week 9** - April 24/25, 2024 | Lecture 5: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 
 
 
