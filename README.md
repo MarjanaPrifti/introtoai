@@ -23,6 +23,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
 | **Week 7** - April 10/11, 2024 | Lecture 4: [Constraint Satisfaction Problems][04] [[Chapter 6, sections 6.1-6.3][chapter]]|
 | **Week 8** - April, 2024 | Midterm Project: [Midterm][07]  <br> Deadline extended: April 19, 18:00|
+| **Week 9** - April 24/25, 2024 | Lecture 5: [Games and adversarial search][05] [[Chapter 6, sections 6.1-6.3][chapter]]|
 
 
 
@@ -36,6 +37,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [02]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture2.pdf
 [03]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture3.pdf
 [04]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture4.pdf
+[05]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture5.pdf
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
 [ex1]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
