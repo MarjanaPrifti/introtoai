@@ -26,7 +26,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 9** - April 24/25, 2024 | Lecture 5: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 | **Week 10** - May 08/09, 2024 | Lecture 6: [Quantifying Uncertainty][06] [[Chapter 12][chapter]] <br> Home Assignment (no submission required): [Assignment3][ex3] |
 | **Week 11** - May 15/16, 2024 | Lecture 7: [Representing Uncertain Knowledge + Inference in bayesian Networks][07] [[Chapter 13][chapter]]|
-| **Week 12** - May 15/16, 2024 | Lecture 8: [Reasoning over Time][08] [[Chapter 13][chapter]]|
+| **Week 12** - May 15/16, 2024 | Lecture 8: [Reasoning over Time][08] [[Chapter 14,sections 14.1 - 14.4][chapter]]|
 
 
 
