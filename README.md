@@ -27,7 +27,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 10** - May 08/09, 2024 | Lecture 6: [Quantifying Uncertainty][06] [[Chapter 12][chapter]] <br> Home Assignment (no submission required): [Assignment3][ex3] |
 | **Week 11** - May 15/16, 2024 | Lecture 7: [Representing Uncertain Knowledge + Inference in bayesian Networks][07] [[Chapter 13][chapter]]|
 | **Week 12** - May 15/16, 2024 | Lecture 8: [Reasoning over Time][08] [[Chapter 14, sections 14.1-14.4][chapter]]|
-| **Week 13** - May 29/30, 2024 | Lecture 9: [Lab Exercises][09] [[Make sure you upload Assignment 2 or 3 (according to your choice). Note that the final exams are scheduled on June 12 (section 1) and June 13 (section 2) ]|
+| **Week 13** - May 29/30, 2024 | Lecture 9: [Lab Exercises][09] Make sure you upload Assignment 2 or 3 (according to your choice). Note that the final exams are scheduled on June 12 (section 1) and June 13 (section 2) 
 
 
 
