@@ -28,8 +28,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | **Week 11** - May 15/16, 2024 | Lecture 7: [Representing Uncertain Knowledge + Inference in bayesian Networks][07] [[Chapter 13][chapter]]|
 | **Week 12** - May 15/16, 2024 | Lecture 8: [Reasoning over Time][08] [[Chapter 14, sections 14.1-14.4][chapter]]|
 | **Week 13** - May 29/30, 2024 | Lecture 9: [Lab Exercises part 1][09] [Lab Exercises part 2 & 3][10] Make sure you upload Assignment 2 or 3 (according to your choice). Note that the final exams are scheduled on June 12 (section 1) and June 13 (section 2) 
-
-
+| **Week 14** - June 05/06, 2024 | Lecture 10: [Final Exam Recap][ex4]|
 
 
 
@@ -58,3 +57,4 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 [ex3]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_3.pdf
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
 [007]: https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing
+[ex4]: https://docs.google.com/document/d/1vAMeG_fpUZp_kc-mfsSaZrI9XA7AgJhBFYLQLbGgqm0/edit?usp=sharing
