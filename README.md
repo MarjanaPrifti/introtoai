@@ -1,15 +1,15 @@
 # SE 210 - Special Topics in CSCI (Artificial Intelligence)
-Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
+Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 
 - Instructor: Dr. Marjana Prifti Skenduli
 - Contact: [marjanaprifti@unyt.edu.al](mailto:marjanaprifti@unyt.edu.al)
 - When:
-  - Spring 2024, Wednesday 9:00 AM to 12:00 PM.
-  - Spring 2024, Thursday 13:00 PM to 16:00 PM.
+  - Spring 2026, Wednesday 9:00 AM to 12:00 PM.
+  - Spring 2026, Thursday 13:00 PM to 16:00 PM.
 - Classroom: B2-Lab new lab
 - Turnitin Classroom:
-  - **Section 1 (Wednesday)** ID: 42708875 Passkey: spring2024
-  - **Section 2 (Thursday)** ID: 42708880 Passkey: spring2024
+  - **Section 1 (Wednesday)** ID: 42708875 Passkey: spring2026
+  - **Section 2 (Thursday)** ID: 42708880 Passkey: spring2026
 
 ## Course Calendar and Outline
 
@@ -17,18 +17,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2024.
 | ---- | ----- |
 | **Week 1** - February 21/22, 2024 | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook], ["4th Editon"] <br>Lecture 0: [Introduction to Artificial Intelligence][00] [[Chapter 1][chapter]] <br> Optional Reading: [Turing's Paper][paper]  |
 | **Week 2** - March 06/07, 2024 | Lecture 1: [Intelligent Agents][01] [[Chapter 2][chapter]] <br> Optional Reading: [A generalist AI agent for 3D virtual environments][link] |
-| **Week 3** - March 13, 2024 | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Home Assignment: [Assignment1][ex1]  <br> Optional Reading: [Nvidia Project GROOT][link1] <br> [Can Large Language Models Reason and Plan?][link2]|
-| **Week 4** - March 21, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
-| **Week 5** - March 27/28, 2024 | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
-| **Week 6** - April 03/04, 2024 | Classes are cancelled for this week|
-| **Week 7** - April 10/11, 2024 | Lecture 4: [Constraint Satisfaction Problems][04] [[Chapter 6, sections 6.1-6.3][chapter]]|
-| **Week 8** - April, 2024 | Midterm Project: [Midterm][007]  <br> Deadline extended: April 19, 18:00|
-| **Week 9** - April 24/25, 2024 | Lecture 5: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
-| **Week 10** - May 08/09, 2024 | Lecture 6: [Quantifying Uncertainty][06] [[Chapter 12][chapter]] <br> Home Assignment (no submission required): [Assignment3][ex3] |
-| **Week 11** - May 15/16, 2024 | Lecture 7: [Representing Uncertain Knowledge + Inference in bayesian Networks][07] [[Chapter 13][chapter]]|
-| **Week 12** - May 15/16, 2024 | Lecture 8: [Reasoning over Time][08] [[Chapter 14, sections 14.1-14.4][chapter]]|
-| **Week 13** - May 29/30, 2024 | Lecture 9: [Lab Exercises part 1][09] [Lab Exercises part 2 & 3][10] Make sure you upload Assignment 2 or 3 (according to your choice). Note that the final exams are scheduled on June 12 (section 1) and June 13 (section 2) 
-| **Week 14** - June 05/06, 2024 | Lecture 10: [Final Exam Recap][ex4]|
+
 
 
 
