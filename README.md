@@ -6,7 +6,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 - When:
   - Spring 2026, Thursday 13:00 PM to 16:00 PM.
   - Spring 2026, Friday 9:00 AM to 12:00 PM.
-- Classroom: B2-Lab new lab
+- Classroom: B2-Lab1
 - Turnitin Classroom:
   - **Section 1 (Thursday)** ID: 42708875 Passkey: spring2026
   - **Section 2 (Friday)** ID: 42708880 Passkey: spring2026
