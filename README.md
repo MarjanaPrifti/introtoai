@@ -15,7 +15,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 
 | Date | Topic |
 | ---- | ----- |
-| **Week 1**  | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook], 4th ed[4th Editon][4th Editon] <br>Lecture 0: [Introduction to Artificial Intelligence][00] Readings [[AIMA Chapter 1][chapter]] <br> Optional Reading: [Turing's Paper][paper]  |
+| **Week 1**  | [Course syllabus][syllabus] [[PDF][syllabus]] <br> Recommended textbook: ["Artificial Intelligence: A Modern Approach, 3rd Edition"][ebook], 4th ed[[4th Editon][4th Editon]] <br>Lecture 0: [Introduction to Artificial Intelligence][00] Readings [[AIMA Chapter 1][chapter]] <br> Optional Reading: [Turing's Paper][paper]  |
 | **Week 2**  | Lecture 1: [Intelligent Agents][01] Readings [[Chapter 2][chapter]] <br> Optional Reading: [A generalist AI agent for 3D virtual environments][link] |
 
 
