@@ -19,7 +19,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 2**  | Lecture 1: [Intelligent Agents][01] Readings [AIMA-Chapter 2][chapter] <br> Optional Reading: [A generalist AI agent for 3D virtual environments][link] |
 | **Week 3** | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Home Assignment: [Assignment1][ex1]  <br> Optional Reading: [Nvidia Project GROOT][link1] <br> [Can Large Language Models Reason and Plan?][link2]|
 | **Week 4** | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
-|
+| **Week 5** | Lecture 4: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 
 
 
