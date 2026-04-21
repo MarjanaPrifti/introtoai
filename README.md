@@ -20,6 +20,8 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 3** | Lecture 2: [Uninformed Search][02] [[Chapter 3, sections 3.1-3.4][chapter]] <br> Home Assignment: [Assignment1][ex1]  <br> Optional Reading: [Nvidia Project GROOT][link1] <br> [Can Large Language Models Reason and Plan?][link2]|
 | **Week 4** | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
 | **Week 5** | Lecture 4: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
+| **Week 6** | Review [Exercises][exmid]|
+
 
 
 
@@ -56,3 +58,4 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
 [007]: https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing
 [ex4]: https://docs.google.com/document/d/1vAMeG_fpUZp_kc-mfsSaZrI9XA7AgJhBFYLQLbGgqm0/edit?usp=sharing
+[exmid]: https://marjanaprifti.github.io/introtoai/New%20PDFs/New%20PDFs/review%20exercises%20for%20the%20exam.pdf
