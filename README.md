@@ -58,4 +58,4 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
 [007]: https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing
 [ex4]: https://docs.google.com/document/d/1vAMeG_fpUZp_kc-mfsSaZrI9XA7AgJhBFYLQLbGgqm0/edit?usp=sharing
-[exmid]: https://marjanaprifti.github.io/introtoai/New%20PDFs/New%20PDFs/review%20exercises%20for%20the%20exam.pdf
+[exmid]:https://marjanaprifti.github.io/introtoai/New%20PDFs/New%20PDFs/review%20exercises%20for%20the%20exam.pdf
