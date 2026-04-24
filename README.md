@@ -21,6 +21,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 4** | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
 | **Week 5** | Lecture 4: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 | **Week 6** | Review [Exercises][exmid]|
+| **Week 7** | Midterm Exam; Thursday class midterm is scheduled on April 30, 13:00, East Campus; Friday class midterm is schduled on April 28, 10:00, East Campus|
 
 
 
