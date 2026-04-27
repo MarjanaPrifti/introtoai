@@ -21,7 +21,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 4** | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
 | **Week 5** | Lecture 4: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 | **Week 6** | Review [Exercises][exmid]|
-| **Week 7** | Midterm Exam <br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
+| **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
 
 
 
@@ -58,5 +58,6 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [ex3]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_3.pdf
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
 [007]: https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing
+[midterm]: https://drive.google.com/file/d/1sxH3b9yT6ONzn-jJLb2slL2_bAbExals/view?usp=sharing
 [ex4]: https://docs.google.com/document/d/1vAMeG_fpUZp_kc-mfsSaZrI9XA7AgJhBFYLQLbGgqm0/edit?usp=sharing
 [exmid]:https://marjanaprifti.github.io/introtoai/New%20PDFs/review%20exercises%20for%20the%20exam.pdf
