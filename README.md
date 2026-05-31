@@ -24,7 +24,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
 | **Week 8** |Lecture 7: [Quantifying Uncertainty][07] [[Chapter 12, sections 12.1-12.5][chapter]] <br>|
 | **Week 9** |Lecture 8: [Representing Uncertain Knowledge + Bayes Nets][08] [[Chapter 13, sections 13.1 - 13.3][chapter]] <br>|
-| **Week 10**| Midterm Project: [Midterm][007]  <br> Deadline extended:June 20, 18:00|
+| **Week 10**| Midterm Project: [Midterm][007]  <br> Deadline extended:June 20, 23:59|
 
 
 
@@ -60,7 +60,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [ex2]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_2.pdf
 [ex3]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_3.pdf
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
-[007]: [https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing](https://marjanaprifti.github.io/introtoai/New%20PDFs/UNYT_Project.pdf
+[007]: [https://marjanaprifti.github.io/introtoai/New%20PDFs/UNYT_Project.pdf]
 [midterm]: https://drive.google.com/file/d/1sxH3b9yT6ONzn-jJLb2slL2_bAbExals/view?usp=sharing
 [ex4]: https://docs.google.com/document/d/1vAMeG_fpUZp_kc-mfsSaZrI9XA7AgJhBFYLQLbGgqm0/edit?usp=sharing
 [exmid]:https://marjanaprifti.github.io/introtoai/New%20PDFs/review%20exercises%20for%20the%20exam.pdf
