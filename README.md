@@ -47,8 +47,8 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [04]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture4.pdf
 [05]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture5.pdf
 [06]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture6.pdf
-[07]: https://marjanaprifti.github.io/introtoai/PDFs/Probability.pdf
-[08]: https://marjanaprifti.github.io/introtoai/PDFs/Bayesian Networks.pdf
+[07]: https://marjanaprifti.github.io/introtoai/New%20PDFs/Probability.pdf
+[08]: https://marjanaprifti.github.io/introtoai/New%20PDFs/BayesianNetworks.pdf
 [09]: https://marjanaprifti.github.io/introtoai/PDFs/part1.pdf
 [10]: https://marjanaprifti.github.io/introtoai/PDFs/part2&3.pdf
 
