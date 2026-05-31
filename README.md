@@ -54,14 +54,13 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [10]: https://marjanaprifti.github.io/introtoai/PDFs/part2&3.pdf
 
 
-
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
 [ex1]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_1.pdf
 [ex2]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_2.pdf
 [ex3]: https://marjanaprifti.github.io/introtoai/PDFs/Exercises_3.pdf
 [link2]: https://arxiv.org/pdf/2403.04121.pdf
-[007]: https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing
+[007]: [https://docs.google.com/document/d/1JBdHoMXc_s-yL0SisH0eaf0pvy9GZfFhs2ZQtBKg9WU/edit?usp=sharing](https://marjanaprifti.github.io/introtoai/New%20PDFs/UNYT_Project.pdf
 [midterm]: https://drive.google.com/file/d/1sxH3b9yT6ONzn-jJLb2slL2_bAbExals/view?usp=sharing
 [ex4]: https://docs.google.com/document/d/1vAMeG_fpUZp_kc-mfsSaZrI9XA7AgJhBFYLQLbGgqm0/edit?usp=sharing
 [exmid]:https://marjanaprifti.github.io/introtoai/New%20PDFs/review%20exercises%20for%20the%20exam.pdf
