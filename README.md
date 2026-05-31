@@ -24,6 +24,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
 | **Week 8** |Lecture 7: [Quantifying Uncertainty][07] [[Chapter 12, sections 12.1-12.5][chapter]] <br>|
 | **Week 9** |Lecture 8: [Representing Uncertain Knowledge + Bayes Nets][08] [[Chapter 13, sections 13.1 - 13.3][chapter]] <br>|
+| **Week 10**| Midterm Project: [Midterm][007]  <br> Deadline extended:June 20, 18:00|
 
 
 
