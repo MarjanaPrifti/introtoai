@@ -22,6 +22,9 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 5** | Lecture 4: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 | **Week 6** | Review [Exercises][exmid]|
 | **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
+| **Week 8** |Lecture 7: [Quantifying Uncertainty][07] [[Chapter 12, sections 12.1-12.5][chapter]]|
+| **Week 9** |Lecture 8: [Representing Uncertain Knowledge + Bayes Nets][08] [[Chapter 13, sections 13.1 - 13.3][chapter]]|
+
 
 
 
@@ -44,8 +47,8 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [04]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture4.pdf
 [05]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture5.pdf
 [06]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture6.pdf
-[07]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture7.pdf
-[08]: https://marjanaprifti.github.io/introtoai/PDFs/AI_Lecture8.pdf
+[07]: https://marjanaprifti.github.io/introtoai/PDFs/Probability.pdf
+[08]: https://marjanaprifti.github.io/introtoai/PDFs/Bayesian Networks.pdf
 [09]: https://marjanaprifti.github.io/introtoai/PDFs/part1.pdf
 [10]: https://marjanaprifti.github.io/introtoai/PDFs/part2&3.pdf
 
