@@ -24,8 +24,8 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
 | **Week 8** |Lecture 7: [Quantifying Uncertainty][07] [[Chapter 12, sections 12.1-12.5][chapter]] <br>|
 | **Week 9** |Lecture 8: [Representing Uncertain Knowledge + Bayes Nets][08] [[Chapter 13, sections 13.1 - 13.3][chapter]] <br>|
-| **Week 10**| Midterm Project: [Midterm][007] <br> Deadline extended:June 20, 23:59|
-
+| **Week 10**| Course Project: [Project][007] <br> Deadline extended:June 20, 23:59|
+| **Week 11** |Lecture 9: [HMMs][11] [[Chapter 14, sections 14.3 - 14.5][chapter]] <br>|
 
 
 
@@ -52,7 +52,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [08]: https://marjanaprifti.github.io/introtoai/New%20PDFs/BayesianNetworks.pdf
 [09]: https://marjanaprifti.github.io/introtoai/PDFs/part1.pdf
 [10]: https://marjanaprifti.github.io/introtoai/PDFs/part2&3.pdf
-
+[11]: https://marjanaprifti.github.io/introtoai/New%20PDFs/HHMs.pdf
 
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
