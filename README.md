@@ -21,7 +21,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 4** | Lecture 3: [Informed Search][03] [[Chapter 3, sections 3.5-3.6][chapter]] <br>|
 | **Week 5** | Lecture 4: [Games and Adversarial Search][05] [[Chapter 5, sections 5.1-5.5][chapter]] <br> Home Assignment (no submission required): [Assignment2][ex2] |
 | **Week 6** | Review [Exercises][exmid]|
-| **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday class midterm is scheduled on April 30, 13:00, East Campus <br> Friday class midterm is schduled on April 28, 10:00, East Campus|
+| **Week 7** | Midterm Exam <br> [mock exam] [midterm]<br> Thursday's class midterm is scheduled on April 30, 13:00, East Campus <br> Friday's class midterm is schduled on April 28, 10:00, East Campus|
 | **Week 8** |Lecture 7: [Quantifying Uncertainty][07] [[Chapter 12, sections 12.1-12.5][chapter]] <br>|
 | **Week 9** |Lecture 8: [Representing Uncertain Knowledge + Bayes Nets][08] [[Chapter 13, sections 13.1 - 13.3][chapter]] <br>|
 | **Week 10**| Course Project: [Project][007] <br> Deadline extended:June 20, 23:59|
@@ -29,7 +29,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 12** |Lecture 10: [LLMs][12]  <br>|
 | **Week 13** |Paper 1: [Attention is All You Need][13] <br> You can also count on paperpal to study & understand better the paper; https://www.chapterpal.com/s/9b8yltb1/attention-is-all-you-need |
 | **Week 14** |Paper 2: [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?][14] <br>|
-| ****Week 15***** |Final Exam: (_The exam will cover lecture 7,8,9,10 and paper 1&2_) <br> Thursday class exam is scheduled on June 18, 13:00, East Campus <br> Friday class midterm is schduled on June 19, 10:00, East Campus|
+| ****Week 15***** |Final Exam: (_The exam will cover lecture 7,8,9,10 and paper 1&2_) <br> Thursday's class exam is scheduled on June 18, 13:00, East Campus <br> Friday's class midterm is schduled on June 19, 10:00, East Campus|
 
 
 
