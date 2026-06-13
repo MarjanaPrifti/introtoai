@@ -29,7 +29,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 12** |Lecture 10: [LLMs][12]  <br>|
 | **Week 13** |Paper 1: [Attention is All You Need][13] <br> You can also count on paperpal to study & understand better the paper; https://www.chapterpal.com/s/9b8yltb1/attention-is-all-you-need |
 | **Week 14** |Paper 2: [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?][14] <br>|
-| ****Week 15****  |Final Exam: (_The exam will cover lecture 7,8,9,10 and paper 1&2_) <br> Thursday class exam is scheduled on June 18, 13:00, East Campus <br> Friday class midterm is schduled on June 19, 10:00, East Campus|
+| *****Week 15****  |Final Exam: (_The exam will cover lecture 7,8,9,10 and paper 1&2_) <br> Thursday class exam is scheduled on June 18, 13:00, East Campus <br> Friday class midterm is schduled on June 19, 10:00, East Campus|
 
 
 
