@@ -26,9 +26,9 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 9** |Lecture 8: [Representing Uncertain Knowledge + Bayes Nets][08] [[Chapter 13, sections 13.1 - 13.3][chapter]] <br>|
 | **Week 10**| Course Project: [Project][007] <br> Deadline extended:June 20, 23:59|
 | **Week 11** |Lecture 9: [HMMs][11] [[Chapter 14, sections 14.3 - 14.5][chapter]] <br>|
-| **Week 12** |Lecture 10: [LLMs][11]  <br>|
-| **Week 13** |Lecture 11: [HMMs][11] <br>|
-| **Week 14** |Lecture 12: [HMMs][11] <br>|
+| **Week 12** |Lecture 10: [LLMs][12]  <br>|
+| **Week 13** |Lecture 11: [HMMs][13] <br>|
+| **Week 14** |Lecture 12: [HMMs][14] <br>|
 | **Week 15** |Final Exam: [chapter]] <br> Thursday class exam is scheduled on June 18, 13:00, East Campus <br> Friday class midterm is schduled on June 19, 10:00, East Campus|
 
 
@@ -58,6 +58,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [09]: https://marjanaprifti.github.io/introtoai/PDFs/part1.pdf
 [10]: https://marjanaprifti.github.io/introtoai/PDFs/part2&3.pdf
 [11]: https://marjanaprifti.github.io/introtoai/New%20PDFs/HMMs.pdf
+[12]: https://drive.google.com/file/d/1q0GocSw0py4w9U1_9fJ4ib8Tm71rvhkT/view?usp=sharing
 
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
