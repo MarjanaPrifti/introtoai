@@ -29,7 +29,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 | **Week 12** |Lecture 10: [LLMs][12]  <br>|
 | **Week 13** |Paper 1: [Attention is All You Need][13] <br> You can also count on **chapterpal** to study & understand better the paper; https://www.chapterpal.com/s/9b8yltb1/attention-is-all-you-need |
 |  **Week 14** |Paper 2: [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?][14] <br>|
-| **Week 15**  |Final Exam: (_The exam will cover lecture 7,8,9,10 and paper 1&2_) <br> Thursday's class exam is scheduled on June 18, 13:00, East Campus <br> Friday's class exam is schduled on June 19, 10:00, East Campus|
+| **Week 15**  |Final Exam: (_The exam will cover lecture 7,8,9,10 and paper 1&2_)[Mock Exam][15] <br> Thursday's class exam is scheduled on June 18, 13:00, East Campus <br> Friday's class exam is schduled on June 19, 10:00, East Campus|
 
 
 
@@ -61,6 +61,7 @@ Lectures - Special Topics in CSCI (Artificial Intelligence), UNYT, Spring 2026.
 [12]: https://drive.google.com/file/d/1q0GocSw0py4w9U1_9fJ4ib8Tm71rvhkT/view?usp=sharing
 [13]: https://arxiv.org/pdf/1706.03762
 [14]: https://dl.acm.org/doi/epdf/10.1145/3442188.3445922
+[15]: https://studentsunytedu-my.sharepoint.com/:w:/g/personal/marjanaprifti_unyt_edu_al/IQB1ZUcme2KHS4KAgLfiB__VAfoGYvbFdiExsEUIdGMkduo?e=CPltlc
 
 [link]: https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 [link1]: https://www.youtube.com/watch?v=x5lFw6nz3t0
